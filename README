@@ -1,0 +1,10 @@
+Mystery word
+============
+
+The Mystery Word is a game to improve your vocabulary in french ! 
+Guess what is the mystery word picked into a dictionnary (scrabble level).
+You may change the number of attempts by changing the nbtry variable (default is 5).
+
+HOW TO RUN:
+   g++ main.cpp -o mystery_word.o
+   ./mystery_word
